@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/machinelearningpipeline/mlruns/0/98eebd0bf9fc4ed1a7af6bb5eefd3125/artifacts
+end_time: 1730706155194
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98eebd0bf9fc4ed1a7af6bb5eefd3125
+run_name: sassy-hare-540
+run_uuid: 98eebd0bf9fc4ed1a7af6bb5eefd3125
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730706155165
+status: 4
+tags: []
+user_id: Susanta2102

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/machinelearningpipeline/mlruns/0/285dfd49244047f982ee4ccb0150339a/artifacts
+end_time: 1730706290578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 285dfd49244047f982ee4ccb0150339a
+run_name: bustling-fox-563
+run_uuid: 285dfd49244047f982ee4ccb0150339a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730706290520
+status: 4
+tags: []
+user_id: Susanta2102
